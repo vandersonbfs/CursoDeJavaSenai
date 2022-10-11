@@ -12,8 +12,8 @@ public class App {
 
         int r = n1 + n2;
 
-        System.out.println("O resultado foi " + r);5
-        
+        System.out.println("O resultado foi " + r);
+        ler.close();
 
     }
 }
