@@ -2,6 +2,9 @@ import java.net.SocketImpl;
 import java.net.SocketPermission;
 
 public class ExemploIfElse {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         boolean x = true;
         // se sozinho

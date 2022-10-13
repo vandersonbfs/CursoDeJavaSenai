@@ -15,5 +15,9 @@ public class App {
         System.out.println("O resultado foi " + r);
         ler.close();
 
+        int x = 10;
+        x += 5;
+        System.out.println(x);
+
     }
 }
