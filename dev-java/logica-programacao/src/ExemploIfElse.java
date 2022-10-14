@@ -49,7 +49,6 @@ public class ExemploIfElse {
             default:
                 System.out.println("Não identificado");
                 break;
-
-       
+        }
     }
 }
