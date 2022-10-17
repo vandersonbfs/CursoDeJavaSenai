@@ -20,7 +20,7 @@ public class Questao05 {
 
         System.out.println("Resutaurante Copo sujo");
         System.out.println("Valor consumido ..........................: R$ " + valor);
-        System.out.println("Derviço do garçom ........................: R$ " + txGarcom);
+        System.out.println("Serviço do garçom ........................: R$ " + txGarcom);
         System.out.println("Total ....................................: R$ " + vlrTotal);
 
         ler.close();
