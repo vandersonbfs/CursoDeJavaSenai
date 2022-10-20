@@ -15,10 +15,13 @@ public class Questao05 {
         System.out.println("Digite a sua idade:");
         int n = ler.nextInt();
 
-        if (n >= 16) {
-            System.out.println("Você poderá dirigir!");
+        if (n >= 16 && n < 18) {
+            System.out.println("Você poderá votar! Mas você NÂO poderá dirigir!");
+        }
+        if (n >= 16 && n >= 18) {
+            System.out.println("Você poderá votar e dirigir!");
         } else {
-            System.out.println("Você NÂO poderá dirigir!");
+            System.out.println("Você não tem idade minima nem para votar nem para dirigir!");
         }
         ler.close();
     }

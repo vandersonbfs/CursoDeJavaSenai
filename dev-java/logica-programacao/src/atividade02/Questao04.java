@@ -13,7 +13,7 @@ public class Questao04 {
         System.out.println("Digite a sua idade:");
         int n = ler.nextInt();
 
-        if (n >= 16) {
+        if (n >= 18) {
             System.out.println("Você poderá dirigir!");
         } else {
             System.out.println("Você NÂO poderá dirigir!");
