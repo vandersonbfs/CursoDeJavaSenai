@@ -29,6 +29,7 @@ public class Questao03 {
             System.out.println(i);
         }
         System.out.println("+-----------------------------------+");
+        ler.close();
 
     }
 }

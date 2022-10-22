@@ -18,5 +18,6 @@ public class Questao01 {
 
             System.out.println(i + " x " + n + " = " + tabuada);
         }
+        ler.close();
     }
 }

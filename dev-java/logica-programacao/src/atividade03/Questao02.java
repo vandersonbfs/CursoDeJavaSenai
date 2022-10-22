@@ -17,6 +17,7 @@ public class Questao02 {
 
             System.out.println(men);
         }
+        ler.close();
 
     }
 }

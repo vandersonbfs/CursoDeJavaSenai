@@ -18,7 +18,7 @@ public class Questao04 {
 
         if (men == senha) {
 
-            System.out.println("Acertou");
+            System.out.println("Palavra Ok");
             contar = 5;
 
         }
@@ -27,7 +27,7 @@ public class Questao04 {
 
             contar++;
             System.out.println("Tentativa número: " + contar + "men: " + men + " , senha: " + senha);
-            System.out.println("Tente novamente");
+            System.out.println("Palavra Errada");
             men = ler.nextLine();
 
         } while (contar != 5);
