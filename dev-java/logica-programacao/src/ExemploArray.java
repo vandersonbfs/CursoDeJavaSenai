@@ -11,7 +11,7 @@ public class ExemploArray {
             System.out.println(pessoa);
 
         }
-
+        // foreach
         for (String pessoa : pessoas) {
             System.out.println(pessoa);
         }
