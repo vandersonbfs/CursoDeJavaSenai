@@ -2,6 +2,8 @@ package ExemploArray;
 
 import java.util.ArrayList;
 
+import javax.swing.JOptionPane;
+
 public class Exemplo03 {
     public static void main(String[] args) {
         // arraylista é uma classe java mais flexivel para manipular uma lista
