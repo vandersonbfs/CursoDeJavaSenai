@@ -47,4 +47,6 @@ public class Caneta {
 
     public void printStatus() {
         System.out.println(toString());
+    }
+
 }
